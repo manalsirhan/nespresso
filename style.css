@@ -1,0 +1,15 @@
+body{
+    margin:0 auto;
+    text-align:center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+canvas{
+    margin: 10px;
+    position: absolute;
+    left: 0;
+    top: 0; 
+}
